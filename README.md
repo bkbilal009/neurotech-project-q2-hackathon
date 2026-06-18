@@ -1,5 +1,5 @@
 ---
-title: "TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"
+title: "TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"..
 emoji: "🏥"
 colorFrom: "cyan"
 colorTo: "purple"
