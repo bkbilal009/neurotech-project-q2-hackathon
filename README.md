@@ -1,5 +1,5 @@
 ---
-title: "TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"..
+title: "TissueTech Ulcer RAG: Autonomous Bedside Telemetry & Clinical Intelligence Ecosystem"
 emoji: "🏥"
 colorFrom: "cyan"
 colorTo: "purple"
@@ -45,7 +45,7 @@ The system implements a strict automated data mapping pipeline:
 
 ## 🔗 Live Interactive Production Deployments
 
-The complete clinical intelligence network is deployed across two specialized, synchronized software environments hosted live on Hugging Face Spaces:
+The complete clinical intelligence network is deployed across two specialized, synchronized software environments hosted live on Hugging Face Spaces: (Muhammad Bilal)
 
 * **🧠 Module 1: Vortex Clinical Assistant:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/vortex-clinical-ai) — Deep Neon Cyber-Luxe Core Reasoning Bot.
 * **📡 Module 2: Bedside Telemetry RAG Dashboard:** [🚀 Launch Space](https://huggingface.co/spaces/bkbilal09/TissueTech-Bedside-RAG) — Real-Time Hardware Emulation Matrix.
